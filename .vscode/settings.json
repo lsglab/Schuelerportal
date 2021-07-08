@@ -31,5 +31,6 @@
 	"npm.packageManager": "pnpm",
 	"eslint.packageManager": "pnpm",
 	"stylelint.packageManager": "pnpm",
-	"eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"]
+	"eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+	"cSpell.words": ["F", "Füge", "Hinzuf", "Hinzufügen", "Liste", "erforderlich", "ge", "gen", "hinzu"]
 }
